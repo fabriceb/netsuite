@@ -21,7 +21,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6.12"
 authlib = "^0.15.3"
 # As per httpx recommendation we will lock to a fixed minor version until 1.0 is released
 httpx = "~0.18"
